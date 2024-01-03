@@ -5,6 +5,8 @@ The challenge is: (7) in http://www.bigdatafromspace2023.org/satellite-events - 
 
 Organisers and Instructors: Nicolas Longepe (ESA), Bertrand Le Saux (ESA), Nikolaos Dionelis (ESA); Enrico Ubaldi (MindEarth); Nika Oman Kadunc (Sinergise), Devis Peressutti (Sinergise); Annekatrien Debien (SpaceTech Partners); Mattia Marconcini (MindEarth), Alessandra Feliciotti (MindEarth)
 
+Estimating the Construction Epoch from multi-modal street-view - EO dataset
+
 How to cite: 
 
 "AI4EO - Building Sustainability: Using Artificial Intelligence for Estimating Construction Year from multi-modal street-view - EO dataset [Challenge]," Nicolas Longepe, Bertrand Le Saux, Nikolaos Dionelis, Enrico Ubaldi, Nika Oman Kadunc, Devis Peressutti, Annekatrien Debien, Mattia Marconcini, Alessandra Feliciotti, Big Data from Space (BiDS) 2023 Satellite Event, November 2023.
