@@ -3,9 +3,9 @@ AI4EO Challenge BiDS 2023 - Building Sustainability: Using AI for Estimating Con
 
 The challenge is: (7) in http://www.bigdatafromspace2023.org/satellite-events - Also, in: http://ai4eo.eu 
 
-Organisers and Instructors: Nicolas Longepe (ESA), Bertrand Le Saux (ESA), Nikolaos Dionelis (ESA); Enrico Ubaldi (MindEarth); Nika Oman Kadunc (Sinergise), Devis Peressutti (Sinergise); Annekatrien Debien (SpaceTech Partners); Mattia Marconcini (MindEarth), Alessandra Feliciotti (MindEarth)
+Organisers and Instructors: Nicolas Longepe (ESA, Phi-lab), Nikolaos Dionelis (ESA, Phi-lab), Bertrand Le Saux (ESA, Phi-lab); Enrico Ubaldi (MindEarth); Nika Oman Kadunc (Sinergise), Devis Peressutti (Sinergise); Annekatrien Debien (SpaceTech Partners); Mattia Marconcini (MindEarth), Alessandra Feliciotti (MindEarth) 
 
-Estimating the Construction Epoch from multi-modal street-view - EO dataset
+Estimating the Construction Period of Buildings from multi-modal street-view - EO dataset  
 
 AI4EO Challenge: [https://ai4eo.eu](https://ai4eo.eu)  
 
