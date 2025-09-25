@@ -11,7 +11,7 @@ AI4EO Challenge: [https://ai4eo.eu](https://ai4eo.eu)
 
 Dataset: [http://www.eotdl.com/datasets/AI4EO-MapYourCity](http://www.eotdl.com/datasets/AI4EO-MapYourCity) 
 
-Website: [https://platform.ai4eo.eu/](https://platform.ai4eo.eu/)     
+Also: Website: [https://platform.ai4eo.eu/](https://platform.ai4eo.eu/)     
 
 Paper: [http://arxiv.org/pdf/2502.13818](http://arxiv.org/pdf/2502.13818)    
 
