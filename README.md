@@ -25,5 +25,5 @@ How to cite:
 
 "AI4EO - Building Sustainability: Using Artificial Intelligence for Estimating Construction Year from multi-modal street-view - EO dataset [Challenge]," Nicolas Longepe, Bertrand Le Saux, Nikolaos Dionelis, Enrico Ubaldi, Nika Oman Kadunc, Devis Peressutti, Annekatrien Debien, Mattia Marconcini, Alessandra Feliciotti, Big Data from Space (BiDS) 2023 Satellite Event, November 2023.
 
-Online: http://www.bigdatafromspace2023.org/satellite-events, http://ai4eo.eu 
+Online: [http://www.bigdatafromspace2023.org/satellite-events](http://www.bigdatafromspace2023.org/satellite-events), [http://ai4eo.eu](http://ai4eo.eu)  
 
